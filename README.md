@@ -31,3 +31,9 @@
 ## 📦 How to Play Offline
 
 1. Game client gonna be released in future
+
+---
+
+## 👨‍💻 What about Open Source?
+
+The game is completely open source. You have the right to download its HTML file and modify it as you wish and will eventually be able to make forks of the game.
